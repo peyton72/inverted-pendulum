@@ -19,4 +19,4 @@ The purpose of this file is to
 
 
 #### Source: 
-(![Harverd ridiid pendulum](https://youtu.be/5oGYCxkgnHQ?si=45GO4vJK6qV-x4NP))
+(![Harverd rigid pendulum](https://youtu.be/5oGYCxkgnHQ?si=45GO4vJK6qV-x4NP))
