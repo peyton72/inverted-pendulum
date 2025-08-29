@@ -18,4 +18,4 @@ The purpose of this file is to
 ##### Answer: The drop in the pivot point will increase the length of the pendulum which makes it less stable. It will then swing down into its downward equilibrium position.
 
 
-#### Source: ![Harved-rigid pendulum](https://sciencedemonstrations.fas.harvard.edu/presentations/inverted-pendulum)
+#### Source: (![Harved-rigid pendulum](https://sciencedemonstrations.fas.harvard.edu/presentations/inverted-pendulum))
